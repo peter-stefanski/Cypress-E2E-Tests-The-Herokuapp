@@ -1,4 +1,4 @@
-# Cypress E2E Tests – The Internet (Herokuapp)
+# Cypress E2E Tests – The Herokuapp
 
 ## Description
 This repository contains end-to-end tests written in **Cypress** for The Internet demo application.  
