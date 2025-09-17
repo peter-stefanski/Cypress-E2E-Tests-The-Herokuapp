@@ -23,10 +23,9 @@ Demo site: [The Internet (Herokuapp)](https://the-internet.herokuapp.com)
 ## Installation
 Clone the repository and install dependencies:
 
-
-git clone https://github.com/peter-stefanski/Cypress-E2E-Tests-The-Herokuapp.git
-cd Project_03
-npm install
+- git clone https://github.com/peter-stefanski/Cypress-E2E-Tests-The-Herokuapp.git
+- cd Project_03
+- npm install
 
 # Running Cypress Tests
 
@@ -41,9 +40,7 @@ npx cypress run
 
 - Make sure your TodoMVC React app is running locally.
 
-- Default URL used in tests:
-
-https://the-internet.herokuapp.com
+- Default URL used in tests: https://the-internet.herokuapp.com
 
 - You can change this in cypress.config.js if needed.
 
